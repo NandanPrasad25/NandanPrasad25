@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandanprasad25&label=Profile%20views&color=0e75b6&style=flat" alt="nandanprasad25" /> </p>
 
-- 🔭 I’m currently working on **GoldenNote**
+- 🔭 I’m currently working on **GoldenNote Web App**
 
 - 🌱 I’m currently learning **Node.js**
 
