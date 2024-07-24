@@ -7,7 +7,10 @@
 
 - 📄 Know about my experiences [https://ivory-dianna-7.tiiny.site/](https://ivory-dianna-7.tiiny.site/)
 - 🤝 I am open to collaborating on React & Nodejs Projects
-- Connect with me on -- <a  src="www.linkedin.com/in/nandan-prasad" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="26" height="24" /></a>
+- Connect with me on > <a href="https://www.linkedin.com/in/nandan-prasad" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/1920px-LinkedIn_Logo_2013_%282%29.svg.png" alt="linkedin" width="80" height="25" />
+</a>
+
 
 ## Tools I use
 
@@ -46,10 +49,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
   </a> 
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/babel-10-logo-png-transparent.png" alt="babel" width="40" height="40"/>
   </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000" alt="bootstrap" width="40" height="40"/> 
   </a>
   <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
 </p>
