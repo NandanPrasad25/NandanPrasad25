@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://ivory-dianna-7.tiiny.site/](https://ivory-dianna-7.tiiny.site/)
 - 🤝 I am open to collaborating on React & Nodejs Projects
-- Connect with me on > <a href="https://www.linkedin.com/in/nandan-prasad" target="_blank">
+- Connect with me on 👉 <a href="https://www.linkedin.com/in/nandan-prasad" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/LinkedIn_Logo_2013_%282%29.svg/1920px-LinkedIn_Logo_2013_%282%29.svg.png" alt="linkedin" width="80" height="25" />
 </a>
 
